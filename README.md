@@ -46,10 +46,7 @@ This platform helps all stakeholders stay ahead:
   - Enter symptom + severity + location
   - Get best hospital instantly with predicted waiting time & distance
 
-### 💊 Medical / Pharmacy Dashboard
-- Inventory list with real-time alerts
-- Comparison: **predicted demand** (from surge API) vs **current stock**
-- Highlighted shortage indicators and restock requests
+
 
 ---
 
@@ -153,7 +150,7 @@ Copy code
 - **State:** React Query
 - **Auth / DB / Realtime:** Firebase (Auth + Firestore)
 - **ML APIs:** Python + Flask
-- **Deployment:** Vercel / Firebase Hosting / Docker for APIs
+- **Deployment:** Render / Docker for APIs
 
 ---
 
@@ -164,3 +161,4 @@ npm install
 cp .env.example .env.local
 # fill Firebase + API URLs
 npm run dev
+
