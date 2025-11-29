@@ -1,0 +1,172 @@
+[
+  {
+    "rank": 1,
+    "hospital_name": "Nanavati Max Hospital",
+    "speciality": "Cardiology",
+    "coordinates": {
+      "lat": 19.109376,
+      "lng": 72.83741
+    },
+    "distance_km": 1.4,
+    "estimated_travel_time_min": 4.9,
+    "predicted_waiting_time_min": 64.0,
+    "total_estimated_time_min": 68.9,
+    "traffic_level": "High",
+    "capacity": {
+      "general_beds": 127,
+      "icu_beds": 31,
+      "ventilators": 20,
+      "total_beds": 158,
+      "capacity_score": 0.469
+    },
+    "recommended_ambulance_type": "ALS (Advanced Life Support) / ICU",
+    "scoring": {
+      "composite_score": 0.2281,
+      "distance_score": 0.0907,
+      "travel_time_score": 0.0907,
+      "waiting_time_score": 0.5663,
+      "capacity_score": 0.531
+    },
+    "emergency_info": {
+      "severity": "severe",
+      "emergency_level": "critical",
+      "is_golden_hour": true
+    }
+  },
+  {
+    "rank": 2,
+    "hospital_name": "Lilavati Hospital",
+    "speciality": "Cardiology",
+    "coordinates": {
+      "lat": 19.118957,
+      "lng": 72.857078
+    },
+    "distance_km": 1.16,
+    "estimated_travel_time_min": 2.7,
+    "predicted_waiting_time_min": 67.8,
+    "total_estimated_time_min": 70.5,
+    "traffic_level": "Moderate",
+    "capacity": {
+      "general_beds": 55,
+      "icu_beds": 34,
+      "ventilators": 10,
+      "total_beds": 89,
+      "capacity_score": 0.31
+    },
+    "recommended_ambulance_type": "ALS (Advanced Life Support) / ICU",
+    "scoring": {
+      "composite_score": 0.238,
+      "distance_score": 0.0749,
+      "travel_time_score": 0.0489,
+      "waiting_time_score": 0.608,
+      "capacity_score": 0.69
+    },
+    "emergency_info": {
+      "severity": "severe",
+      "emergency_level": "critical",
+      "is_golden_hour": true
+    }
+  },
+  {
+    "rank": 3,
+    "hospital_name": "Global Hospital Parel",
+    "speciality": "Cardiology",
+    "coordinates": {
+      "lat": 19.119169,
+      "lng": 72.846396
+    },
+    "distance_km": 0.05,
+    "estimated_travel_time_min": 0.2,
+    "predicted_waiting_time_min": 86.9,
+    "total_estimated_time_min": 87.0,
+    "traffic_level": "High",
+    "capacity": {
+      "general_beds": 2,
+      "icu_beds": 19,
+      "ventilators": 6,
+      "total_beds": 21,
+      "capacity_score": 0.117
+    },
+    "recommended_ambulance_type": "ALS (Advanced Life Support) / ICU",
+    "scoring": {
+      "composite_score": 0.255,
+      "distance_score": 0.0,
+      "travel_time_score": 0.0,
+      "waiting_time_score": 0.8167,
+      "capacity_score": 0.883
+    },
+    "emergency_info": {
+      "severity": "severe",
+      "emergency_level": "critical",
+      "is_golden_hour": true
+    }
+  },
+  {
+    "rank": 4,
+    "hospital_name": "Bombay Hospital",
+    "speciality": "Cardiology",
+    "coordinates": {
+      "lat": 19.098252,
+      "lng": 72.832133
+    },
+    "distance_km": 2.73,
+    "estimated_travel_time_min": 4.3,
+    "predicted_waiting_time_min": 62.7,
+    "total_estimated_time_min": 66.9,
+    "traffic_level": "Low",
+    "capacity": {
+      "general_beds": 141,
+      "icu_beds": 25,
+      "ventilators": 15,
+      "total_beds": 166,
+      "capacity_score": 0.452
+    },
+    "recommended_ambulance_type": "ALS (Advanced Life Support) / ICU",
+    "scoring": {
+      "composite_score": 0.2553,
+      "distance_score": 0.1797,
+      "travel_time_score": 0.0782,
+      "waiting_time_score": 0.5521,
+      "capacity_score": 0.548
+    },
+    "emergency_info": {
+      "severity": "severe",
+      "emergency_level": "critical",
+      "is_golden_hour": true
+    }
+  },
+  {
+    "rank": 5,
+    "hospital_name": "KEM Hospital",
+    "speciality": "Cardiology",
+    "coordinates": {
+      "lat": 19.11562,
+      "lng": 72.826072
+    },
+    "distance_km": 2.13,
+    "estimated_travel_time_min": 3.3,
+    "predicted_waiting_time_min": 66.5,
+    "total_estimated_time_min": 69.9,
+    "traffic_level": "Low",
+    "capacity": {
+      "general_beds": 92,
+      "icu_beds": 30,
+      "ventilators": 2,
+      "total_beds": 122,
+      "capacity_score": 0.34
+    },
+    "recommended_ambulance_type": "ALS (Advanced Life Support) / ICU",
+    "scoring": {
+      "composite_score": 0.258,
+      "distance_score": 0.1394,
+      "travel_time_score": 0.0603,
+      "waiting_time_score": 0.5944,
+      "capacity_score": 0.66
+    },
+    "emergency_info": {
+      "severity": "severe",
+      "emergency_level": "critical",
+      "is_golden_hour": true
+    }
+  }
+]
