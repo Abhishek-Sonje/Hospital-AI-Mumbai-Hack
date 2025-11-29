@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904366453458",
+    "project_id": "mumbai-hacks-197c7",
+    "storage_bucket": "mumbai-hacks-197c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904366453458:android:fe022ab0b4f493dd6bf30b",
+        "android_client_info": {
+          "package_name": "com.corecoders.healthapk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC98lrUEENOcXbAcDRUwwXIrpDuMRWSKsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
